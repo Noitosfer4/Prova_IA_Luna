@@ -549,7 +549,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 56a49ae527272ed4d99bc63d5fcd3cf2, type: 3}
   m_Name: 
@@ -1594,7 +1594,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1537362848}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.86, y: -2.88, z: 0}
+  m_LocalPosition: {x: -5.12, y: -2.79, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1641,6 +1641,11 @@ MonoBehaviour:
   pulando: 1
   anim: {fileID: 1537362849}
   isCrouching: 0
+  lateralJumpForce: 2
+  climbSpeed: 5
+  des: 0
+  par: 0
+  maxAngle: 45
   monitora: 0
 --- !u!61 &1537362855
 BoxCollider2D:

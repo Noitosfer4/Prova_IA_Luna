@@ -1,11 +1,12 @@
 # Prova_IA_Luna
+
 Avaliação I - Inteligência Artificial "Esquilo Espadachim"
 
 Links: 
 
-Youtube: 
+Vídeo Youtube: https://youtu.be/-rIrSp834Ic
 
-Digrama de Estados Finitos: 
+Digrama de Estados Finitos: https://docs.google.com/document/d/1L4jDBWSJwFxd0oOPR5Tm6L66cNkRSCuXGMO_AMzjL-A/edit?usp=sharing
 
 Checklist prova I.A:
 
@@ -52,18 +53,20 @@ Animações (14):
 
 Configurações de Inputs:
  
-- [x] Parado: Sem entrada
-- [x] Pulando: Tecla ‘Espaço’ ou ‘Botão A no controle’
-- [x] Rolando: Tecla R ou ‘RT’ + ‘Joystick para Baixo’
-- [x] Andando: Tecla ‘A’ ou ‘D’, ‘Setas direcionais’  ou ‘Joystick para a Esquerda/Direita’
-- [x] Andando Agachado: Tecla ‘S’ ou ‘Seta para Baixo’ + ‘Seta para a Direita/Esquerda’ ou ‘Joystick para Baixo’ + ‘Joystick para a Direita/Esquerda’
-- [x] Agachado Parado (Crouching Still): Tecla ‘S’ ou ‘Seta para Baixo’ ou ‘Joystick para Baixo’
-- [x] Ataque Baixo: Tecla ‘J’ + 'Espaço'  ou ‘Botão X no controle’
-- [x] Ataque Cima: Tecla ‘J’ ou ‘Botão X no controle’
-- [x] Ataque Lado: Tecla ‘J’ + 'Setas de movimento' ou ‘Botão X no controle’ + ‘Joystick para a Direita/Esquerda’
-- [x] Correndo: Tecla ‘Shift’ + ‘A’ ou ‘D’ ou ‘Seta para a Esquerda/Direita’ + ‘z’ ou ‘Seta para Baixo’ ou ‘Botão de Correr no controle’ + ‘Joystick para Baixo’
-- [x] Deslizando: Tecla ‘Z’ ou ‘Botão A no controle’
-- [x] Correndo de 4: Tecla ‘G’ ou ‘Botão A no controle’
-- [x] Deslizando Na Parede: Será ativado quando ele estiver escalando na parede mas não apertando o botão para escalar
-- [x] Escalando: Tecla ‘E’ ou ‘Seta para Cima’ ou ‘Joystick para Cima’
+Parado: Sem entrada
+Pulando: Tecla ‘Espaço’ ou ‘Botão A no controle’
+Pulando direita: Tecla ‘Espaço’ + ‘Seta Direita’ ou ‘D’ ou ‘Botão A no controle’ + ‘Joystick Direita’
+Pulando esquerda: Tecla ‘Espaço’ + ‘Seta Esquerda’ ou ‘A’ ou ‘Botão A no controle’ + ‘Joystick Esquerda’
+Rolando: Tecla R ou ‘RT’ + ‘Joystick para Baixo’
+Andando: Tecla ‘A’ ou ‘D’, ‘Setas direcionais’  ou ‘Joystick para a Esquerda/Direita’
+Andando Agachado: Tecla ‘S’ ou ‘Seta para Baixo’ + ‘Seta para a Direita/Esquerda’ ou ‘Joystick para Baixo’ + ‘Joystick para a Direita/Esquerda’
+Agachado Parado (Crouching Still): Tecla ‘S’ ou ‘Seta para Baixo’ ou ‘Joystick para Baixo’
+Ataque Baixo: Tecla ‘J’ + 'Espaço'  ou ‘Botão X no controle’
+Ataque Cima: Tecla ‘J’ ou ‘Botão X no controle’
+Ataque Lado: Tecla ‘J’ + 'Setas de movimento' ou ‘Botão X no controle’ + Joystick para a Direita/Esquerda’
+Correndo: Tecla ‘Shift’ + ‘A’ ou ‘D’ ou ‘Seta para a Esquerda/Direita’ + ‘z’ ou ‘Seta para Baixo’ ou ‘Botão de Correr no controle’ + ‘Joystick para Baixo’
+Deslizando: Tecla ‘Z’ ou ‘Botão A no controle’
+Correndo de 4: Tecla ‘G’ ou ‘Botão A no controle’
+Deslizando Na Parede: Será ativado quando ele estiver escalando na parede mas não apertando o botão para escalar
+-Escalando: Tecla ‘E’ ou ‘Seta para Cima’ ou ‘Joystick para Cima’
 
